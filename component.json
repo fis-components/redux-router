@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/rackt/redux-router.git",
+    "version": "v1.0.0-beta4",
+    "name": "redux-router",
+    "main": "ReactRouter.js",
+    "dependencies": {
+        "redux": "*"
+    }
+}
